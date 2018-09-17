@@ -1,3 +1,10 @@
+//  Nome e RA dos integrantes do grupo
+//Nome: Breno Baldovinotti           RA:14315311
+//Nome: Gabriela Ferreira Jorge      RA:12228441
+//Nome: Marco Antônio de Nadai Filho RA:16245961
+//Nome: Moacyr Silva Neto            RA:15191372
+//Nome: Nícolas Leonardo Kupka       RA:16104325
+
 /*
 * hello-1.c - The simplest kernel module.
 */
