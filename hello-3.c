@@ -5,6 +5,8 @@
 //Nome: Moacyr Silva Neto            RA:15191372
 //Nome: Nícolas Leonardo Kupka       RA:16104325
 
+// Testar ao ligar a VM novamente
+
 /*
 * hello-3.c - Illustrating the __init, __initdata and __exit macros.
 */
